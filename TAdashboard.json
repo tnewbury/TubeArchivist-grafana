@@ -326,7 +326,7 @@
           "expr": "yta_download_queue",
           "fullMetaSearch": false,
           "includeNullMetadata": true,
-          "legendFormat": "Download Queue",
+          "legendFormat": "All time",
           "range": true,
           "refId": "A",
           "useBackend": false
@@ -434,7 +434,7 @@
           "useBackend": false
         }
       ],
-      "title": "Download Queue",
+      "title": "Download Count",
       "type": "timeseries"
     }
   ],
@@ -452,5 +452,5 @@
   "timezone": "browser",
   "title": "TubeArchivist",
   "uid": "eae0aa88-11cf-4198-9e4c-d2d010a05a88",
-  "version": 11
+  "version": 13
 }
